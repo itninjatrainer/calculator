@@ -13,4 +13,9 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
+![Status Build](https://dev.azure.com/TrainerITninjaStyle/calculator/_apis/build/status%2Fitninjatrainer.calculator?branchName=master)
+
+
+
+
 
