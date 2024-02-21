@@ -15,7 +15,7 @@ To build, simply:
 2. Runs `npm test` to run Mocha and execute the unit tests.
 [![Build Status](https://dev.azure.com/TrainerITninjaStyle/calculator/_apis/build/status%2Fitninjatrainer.calculator?branchName=master)](https://dev.azure.com/TrainerITninjaStyle/calculator/_build/latest?definitionId=34&branchName=master)
 
-
+[![Build Status](https://dev.azure.com/TrainerITninjaStyle/calculator/_apis/build/status%2Fitninjatrainer.calculator?branchName=master&jobName=Job)](https://dev.azure.com/TrainerITninjaStyle/calculator/_build/latest?definitionId=34&branchName=master)
 
 
 
